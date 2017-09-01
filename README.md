@@ -43,7 +43,7 @@ Follows the same format as [wurstmeister/kafka](https://github.com/wurstmeister/
 Public Build
 ---
 
-https://registry.hub.docker.com/u/tractabeio/kafka/
+https://registry.hub.docker.com/u/tractableio/kafka/
 
 Build from Source
 ---
